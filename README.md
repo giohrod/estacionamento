@@ -18,7 +18,7 @@ O **EstacionaFácil** tem como objetivo apoiar a operação de estacionamentos, 
 
 | Nome | GitHub |
 |---|---|
-| Giovanna Rodrigues e Silva | [@giohrod](https://github.com/usuario-giovanna) |
+| Giovanna Rodrigues e Silva | [@giohrod](https://github.com/giohrod) |
 | João Pedro Queiroga Gobira | [@usuario-joao](https://github.com/usuario-joao) |
 
 ## 🎓 Contexto acadêmico
